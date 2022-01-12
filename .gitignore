@@ -1,0 +1,11 @@
+__pycache__
+.vscode
+utilities.py
+build/
+dist/
+*.egg-info/
+*.pypirc
+*.pyc
+*note
+*backup*
+venv/
